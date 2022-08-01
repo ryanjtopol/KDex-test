@@ -1,0 +1,240 @@
+.firstnav{
+	height: 50px;
+	background-image: linear-gradient(to right, #FF926A, #FF4300);
+}
+
+.secondnav{
+	height: 108px;
+	-moz-box-shadow:  0 5px 10px #DCDCDC;
+	-webkit-box-shadow:  0 5px 10px #DCDCDC;
+	box-shadow:  0 5px 10px #DCDCDC;
+	border-bottom: solid #3C3A3A;
+}
+.snstyle{
+	color: #3B3939;	
+}
+.snstyle:hover{
+	color: #FF926A;
+}
+
+.fnul{
+	list-style: none;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-weight: 600;
+	font-size: 18.5px;
+	display: inline;
+	color:#FFFFFF;
+	position: relative;
+}
+.fliall{
+	display: inline-block;
+	margin-top: 12.5px;
+	margin-left: 1.5%;
+	margin-right: 5px;
+	float: right;
+
+}
+
+.blog{
+	margin-right: 50px;
+}
+
+.seperator{
+	background: #FFFFFF;
+	width: 2px;
+	height: 25px;
+}
+
+
+.arrow{
+	margin-top: 40px;
+	height: 62px;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+
+
+.tophalfinfo{
+		border: solid #000;
+}
+
+.snul{
+	list-style: none;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-size: 22.5px;
+	display: inline;
+	margin-right: 60px;
+}
+.liall{
+	display: inline-block;
+	margin-top: 37.5px;
+	margin-left: 4%;
+}
+
+.kdexlogo{
+	width: 159.17px;
+	height: 56.7px;
+	float: left;
+	margin-top: 25px;
+	margin-left: 8%;
+	margin-right: -2%;
+}
+
+.midbar{
+	width: 100%;
+	height: 135px;
+	top: 795px;
+	background-image: linear-gradient(to right, #FF926A, #FF4300);
+	position: absolute;
+	opacity: 75%;
+}
+
+.container{
+	width: 86%;
+	height: 100%;
+	margin-left: 7%;
+	-moz-box-shadow:  0 2.5px 10px #DCDCDC;
+	-webkit-box-shadow:  0 2.5px 10px #DCDCDC;
+	box-shadow:  0 2.5px 10px #DCDCDC;
+}
+
+.cloudmng{
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-size: 50px;
+	font-weight: 600;
+	color: #3B3939;
+	margin-left: 20%;
+	margin-right: 20%;
+	text-align: center;
+}
+
+.offerings{
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-size: 45px;
+	font-weight: 600;
+	color: #3B3939;
+	margin-left: 20%;
+	margin-right: 20%;
+	text-align: center;
+}
+
+.itpartner{
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-weight: 400;
+	color: #3B3939;
+	text-align: center;
+	margin-left: 5%;
+	margin-right: 5%;
+	height: 125px;
+}
+
+.cloudcheckmark{
+	height: 200px;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+
+.tophalf{
+	margin-bottom: 200px;
+}
+
+.underline{
+	height: 5px;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+	width: 150px;
+	margin-top: -20px;
+	background-color: #3B3939;
+	margin-bottom: 50px;
+}
+
+.bothalf{
+
+}
+
+.offeringgrid1{
+	display: grid;
+	grid-template-columns: 450px 450px ;
+	grid-template-rows: auto;
+  	margin-left: auto;
+  	margin-right: auto;
+	justify-content: center;
+}
+
+.offeringgrid2{
+	display: grid;
+	grid-template-columns: 450px 450px;
+	grid-template-rows: auto;
+  	margin-left: auto;
+  	margin-right: auto;
+	justify-content: center;
+}
+
+.test1{
+	height: 450px;
+	background-color: #FE6D3B;
+	margin: 25px;
+	-moz-box-shadow:  0 2.5px 10px #DCDCDC;
+	-webkit-box-shadow:  0 2.5px 10px #DCDCDC;
+	box-shadow:  0 3px 15px #DCDCDC;	
+}
+
+
+.datasheet{
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+	width: 350px;
+	margin-top: -20px;
+	background-color: #3B3939;
+	text-align: center;
+	font-size: 35px;
+	font-family: "Futura PT Medium";
+	color: #FFFFFF;
+}
+
+.cloudstrategy{
+	font-size: 35px;
+	font-family: "Futura PT Medium";
+	color: #FFFFFF;
+	margin-left: 15px;
+	margin-top: 15px;
+}
+
+.underline2{
+	margin-top: 10px;
+	height: 5px;
+	display: block;
+  	margin-right: auto;
+	margin-left: 17.5px;
+	width: 95px;
+	background-color: #FFFFFF;
+}
+.info{
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	color: #FFFFFF;
+	font-size: 20px;
+	margin-top: 10px;
+	margin-right: 15px;
+}
+
+.mngit{
+	margin-top: 10px;
+}
+
+.indent{
+	margin-left: 25px;
+	list-style-type:circle
+}
+
+body{
+	margin: 0%;
+}
+
+footer{
+	height: 190px;
+	background: #3B3939;
+}
